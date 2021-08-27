@@ -1,5 +1,5 @@
 <h1  align="center">Hi 👋, I'm RUDRAKSH</h1>
-<img height="300px" width="300px" align="right" src="https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/giphy.gif?cid=ecf05e479jr64xmk571szzfo2f7aa3csb1xg6oe7m7166a9r&rid=giphy.gif&ct=g" />
+<img height="300px" width="300px" align="right" src=https://c.tenor.com/Dq8nm__4of0AAAAC/gimme-code-gimme.gif" />
 
 - 😎CURRENTLY LEARNING CSS
 - 📬REACH ME
