@@ -1,7 +1,7 @@
 <h1  align="center">Hi 👋, I'm RUDRAKSH</h1>
 <img height="300px" width="300px" align="right" src=https://c.tenor.com/Dq8nm__4of0AAAAC/gimme-code-gimme.gif" />
 
-- 😎CURRENTLY LEARNING CSS
+- 😎CURRENTLY LEARNING C++
 - 📬**REACH ME**
          <p><a href="https://www.instagram.com/rudrakshgupta20/"><img height="20px" width="20px" src="https://user-images.githubusercontent.com/69029697/131078588-3806b08d-d62f-4e80-98bb-a5e7d249b955.png" /></a> <a href="https://www.linkedin.com/in/rudraksh-gupta-20/"><img height="20px" width="20px" src="https://user-images.githubusercontent.com/69029697/131113060-5a2d01ef-0b26-44a5-8cfc-b0ab515deec8.png" /></a>    <a href="https://www.facebook.com/profile.php?id=100009410175942"><img  height="20px" width="20px" src="https://user-images.githubusercontent.com/69029697/131114479-3fd7f8d3-ba94-4441-a134-72dee3ff6287.png" /></a></p>
 
