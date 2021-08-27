@@ -1,13 +1,19 @@
-<h1 align="center">Hi 👋, I'm RUDRAKSH</h1>
-<h3 align="center">DEVELEPOR FROM CHITKARA UNIVERSITY SECOND YEAR</h3>
+<h1  align="center">Hi 👋, I'm RUDRAKSH</h1>
+<img height="300px" width="300px" align="right" src="https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/giphy.gif?cid=ecf05e479jr64xmk571szzfo2f7aa3csb1xg6oe7m7166a9r&rid=giphy.gif&ct=g" />
 
-- 🌱 I’m currently learning **C++**
+- 😎CURRENTLY LEARNING CSS
+- 📬REACH ME
+ <p><a href="https://www.instagram.com/rudrakshgupta20/"><img height="50px" width="50px" src="https://user-images.githubusercontent.com/69029697/131078588-3806b08d-d62f-4e80-98bb-a5e7d249b955.png" /></a></p>
 
-- 📫 How to reach me **rudrakshgupta25@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h3> 🎓LANGUAGES I KNOW</h3>
 
-  >[instagram](https://www.instagram.com/rudrakshgupta20/)
+
+<p align="left"><img height="100px" width="100px" src="https://user-images.githubusercontent.com/69029697/131077154-3efc60e2-d668-4fcb-a9ab-5e6670ce8fed.png" />
+<img height="100px" width="100px" src="https://user-images.githubusercontent.com/69029697/131077544-ac5d5c5a-5ac8-43b0-9a74-2f63def1bdec.png" />
+<img height="100px" width="100px" src="https://user-images.githubusercontent.com/69029697/131077695-7ccaefca-b5da-413b-8f78-148dc172a435.png" />
+<img height="100px" width="100px" src="https://user-images.githubusercontent.com/69029697/131078021-45d96d50-f841-457d-a86f-7f5f1b62258a.png" /></p>
+
+
 <img src="https://github-readme-stats.vercel.app/api?username=Rudrakshh&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 
