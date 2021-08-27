@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm RUDRAKSH</h1>
 <h3 align="center">DEVELEPOR FROM CHITKARA UNIVERSITY SECOND YEAR</h3>
-<img align="right" src="./codingcat.gif"/>
 
 - 🌱 I’m currently learning **C++**
 
