@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=fff&center=true&vCenter=true&width=900&height=110&lines=Passionate+Developer;Competetive+Programmer" />
 
-<img height="300px" width="300px" align="right" src=https://c.tenor.com/Dq8nm__4of0AAAAC/gimme-code-gimme.gif" />
+<img height="300px" width="300px" align="right" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47t8l91la9v922wad29rzs74qv8s8yak7fhz1z1l04&rid=giphy.gif&ct=g" />
 
 - 😎CURRENTLY LEARNING C++
 - 📬**REACH ME**
