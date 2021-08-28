@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=fff&center=true&vCenter=true&width=900&height=110&lines=Passionate+Developer;Competetive+Programmer" />
 
          
-<img height="300px" width="300px" align="right" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47t8l91la9v922wad29rzs74qv8s8yak7fhz1z1l04&rid=giphy.gif&ct=g" />
+<img height="300px" width="300px" align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif?cid=ecf05e473n2yaecmcfna9pfto4ureumur8dg1c1eoyvp7exi&rid=giphy.gif&ct=g" />
  
 
 - 😎CURRENTLY LEARNING C++
