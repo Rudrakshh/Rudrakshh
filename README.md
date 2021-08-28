@@ -1,6 +1,6 @@
 <h1  align="center">Hi 👋, I'm RUDRAKSH</h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=fff&center=true&vCenter=true&width=900&height=110&lines=Passionate+Developer;Competetive+Programmer)
+<img src="https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=fff&center=true&vCenter=true&width=900&height=110&lines=Passionate+Developer;Competetive+Programmer" />
 
 <img height="300px" width="300px" align="right" src=https://c.tenor.com/Dq8nm__4of0AAAAC/gimme-code-gimme.gif" />
 
