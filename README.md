@@ -12,7 +12,7 @@
 
 <br />
 <div>
-<h3> 🎓LANGUAGES I KNOW </h3>
+<h3> 🎓LANGUAGES AND TOOLS </h3>
 
 
 <p align="left">
