@@ -6,12 +6,14 @@
 <img height="300px" width="300px" align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif?cid=ecf05e473n2yaecmcfna9pfto4ureumur8dg1c1eoyvp7exi&rid=giphy.gif&ct=g" />
  
 
+🙋‍♂️ABOUT ME
 - 😎CURRENTLY LEARNING C++
-- 📬**REACH ME**
+- 📬REACH ME
          <p><a href="https://www.instagram.com/rudrakshgupta20/"><img height="40px" width="40px" src="https://user-images.githubusercontent.com/69029697/131078588-3806b08d-d62f-4e80-98bb-a5e7d249b955.png" /></a> <a href="https://www.linkedin.com/in/rudraksh-gupta-20/"><img height="40px" width="40px" src="https://user-images.githubusercontent.com/69029697/131113060-5a2d01ef-0b26-44a5-8cfc-b0ab515deec8.png" /></a>    <a href="https://www.facebook.com/profile.php?id=100009410175942"><img  height="40px" width="40px" src="https://user-images.githubusercontent.com/69029697/131114479-3fd7f8d3-ba94-4441-a134-72dee3ff6287.png" /></a></p>
 
 <br />
 <div>
+<hr />
 <h3> 🎓LANGUAGES AND TOOLS </h3>
 
 
