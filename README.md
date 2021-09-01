@@ -1,3 +1,14 @@
+<div align="center">
+         
+[![linkedin badge](https://img.shields.io/badge/RUDRAKSH-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/rudraksh-gupta-20/)
+[![instagram badge](https://img.shields.io/badge/RUDRAKSH-30302f?style=flat&logo=instagram)](https://www.instagram.com/rudrakshgupta20/)
+[![facebook badge](https://img.shields.io/badge/RUDRAKSH-30302f?style=flat&logo=facebook)](https://www.facebook.com/profile.php?id=100009410175942)
+[![twitter badge](https://img.shields.io/badge/RUDRAKSH-30302f?style=flat&logo=twitter)](https://twitter.com/RudrakshGupta7)
+         
+</div>
+
+
+
 <h1  align="center">Hi <img src="https://media.giphy.com/media/USUIWSteF8DJoc5Snd/giphy.gif?cid=ecf05e475pka5ni8jfdhmyqe5xqbppko8jrobleepog8hx46&rid=giphy.gif&ct=g" width="50"/> ,I'm RUDRAKSH <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47btpm8553mp66fzg4g1i1grc5qbl09ndx849jdirg&rid=giphy.gif&ct=s" width="50"/><h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=fff&center=true&vCenter=true&width=900&height=110&lines=Passionate+Developer;Competetive+Programmer" />
@@ -8,8 +19,7 @@
 
 🙋‍♂️ABOUT ME
 - 😎CURRENTLY LEARNING C++
-- 📬REACH ME
-         <p><a href="https://www.instagram.com/rudrakshgupta20/"><img height="40px" width="40px" src="https://user-images.githubusercontent.com/69029697/131078588-3806b08d-d62f-4e80-98bb-a5e7d249b955.png" /></a> <a href="https://www.linkedin.com/in/rudraksh-gupta-20/"><img height="40px" width="40px" src="https://user-images.githubusercontent.com/69029697/131113060-5a2d01ef-0b26-44a5-8cfc-b0ab515deec8.png" /></a>    <a href="https://www.facebook.com/profile.php?id=100009410175942"><img  height="40px" width="40px" src="https://user-images.githubusercontent.com/69029697/131114479-3fd7f8d3-ba94-4441-a134-72dee3ff6287.png" /></a></p>
+- 📬REACH ME  [instagram](https://www.instagram.com/rudrakshgupta20/)
 
 <br />
 <div>
