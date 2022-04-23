@@ -3,7 +3,7 @@
 [![linkedin badge](https://img.shields.io/badge/RUDRAKSH-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/rudraksh-gupta-20/)
 [![instagram badge](https://img.shields.io/badge/RUDRAKSH-30302f?style=flat&logo=instagram)](https://www.instagram.com/rudrakshgupta20/)
 [![facebook badge](https://img.shields.io/badge/RUDRAKSH-30302f?style=flat&logo=facebook)](https://www.facebook.com/profile.php?id=100009410175942)
-[![twitter badge](https://img.shields.io/badge/RUDRAKSH-30302f?style=flat&logo=twitter)](https://twitter.com/RudrakshGupta7)
+[![twitter badge](https://img.shields.io/badge/RUDRAKSH-30302f?style=flat&logo=twitter)](https://twitter.com/Ruduu20)
          
 </div>
 
