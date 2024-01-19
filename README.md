@@ -18,7 +18,6 @@
  
 
 🙋‍♂️ABOUT ME
-- 😎CURRENTLY LEARNING C++
 - 📬REACH ME  [instagram](https://www.instagram.com/rudrakshgupta20/)
 
 <br />
